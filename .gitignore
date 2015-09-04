@@ -1,0 +1,6 @@
+
+#python build files
+*.pyc
+
+#Apple file
+.DS_Store
