@@ -17,4 +17,5 @@ data = {"msgid":102,
 			"extras":{"idJob":1, "idTicket":10, "ticket_no":"BCA_IN_AAAB"}}
 
 gcm_notify = GCM(SERVER_GCM_KEY)
+
 print gcm_notify.notify(CLIENT_GCM, data)
