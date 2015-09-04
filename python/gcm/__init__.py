@@ -1,3 +1,3 @@
-import client
+import gcm
 
-GCM = client.GCM
+GCM = gcm.GCM
